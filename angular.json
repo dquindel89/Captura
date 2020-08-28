@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CapturarFoto"
+    }
+  },
+  "defaultProject": "CapturarFoto",
+  "cli": {
+    "analytics": "457bff99-c121-4223-967f-1beaf14911c1"
+  }
 }
